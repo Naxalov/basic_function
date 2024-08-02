@@ -1,4 +1,4 @@
 def fn():
     """
-    This function should return  integer value
-    """
+    This function should return negative integer value 
+    """    
